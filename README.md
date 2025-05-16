@@ -16,9 +16,9 @@ An Ensemble learning-powered web application designed to diagnose anemia from cl
 
 ## Dataset
 
-The model is trained using clinical records, collected from Aalok Healthcare Ltd., Dhaka, Bangladesh. 
-**Ref 1.** Mojumdar, M.U., et al.: Pediatric Anemia Dataset: Hematological Indicators and Diagnostic Classification. Mendeley Data, V1(2024). https://doi.org/10.17632/y7v7ff3wpj.1
-**Ref 2.** Mojumdar, M.U., et al.: AnaDetect: An extensive dataset for advancing anemia detection, di-agnostic methods, and predictive analytics in healthcare. Data in Brief 58, 111195 (2025). https://doi.org/10.1016/j.dib.2024.111195
+The model is trained using clinical records, collected from Aalok Healthcare Ltd., Dhaka, Bangladesh.   
+**Ref 1.** Mojumdar, M.U., et al.: Pediatric Anemia Dataset: Hematological Indicators and Diagnostic Classification. Mendeley Data, V1(2024). https://doi.org/10.17632/y7v7ff3wpj.1  
+**Ref 2.** Mojumdar, M.U., et al.: AnaDetect: An extensive dataset for advancing anemia detection, di-agnostic methods, and predictive analytics in healthcare. Data in Brief 58, 111195 (2025). https://doi.org/10.1016/j.dib.2024.111195  
 
 The dataset can be accessed from the following Mendeley Data link:
 [Pediatric Anemia Dataset](https://data.mendeley.com/datasets/y7v7ff3wpj/1)
