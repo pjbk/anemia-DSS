@@ -119,6 +119,6 @@ if st.button("🔮 Predict Anemia Risk"):
 st.markdown("""
 ---
 <div style='text-align: center; font-size: 15px;'>
-© HSTU 2025 All Rights Reserved.
+© HSTU×MBSTU 2025 All Rights Reserved.
 </div>
 """, unsafe_allow_html=True)
