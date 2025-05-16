@@ -68,7 +68,7 @@ To set up and run the application locally, follow these steps:
 
 4. Open the app in your browser at `http://localhost:8501`.
 
-## Project Structure
+## Project Pipeline
 
 ```
 anemia-DSS/
@@ -83,7 +83,7 @@ anemia-DSS/
 1. **Upload Model**: The pretrained model (`ensemble_model.pkl`) is included in the repository.
 2. **Input Patient's Data**: Choose Hematological and Demographic data of patient for diagnosis.
 3. **Predict Anemia Risk**: The app will display the diagnosis along with the model's confidence score.
-4. ****Explainability**: SHAP-enhaced visualization will appear that explains the reasoning.
+4. **Explainability**: SHAP-enhaced visualization will appear that explains the reasoning.
 
 
 ## Tools and Technologies
