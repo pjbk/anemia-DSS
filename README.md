@@ -43,7 +43,7 @@ stacking_model = StackingClassifier(
 )
 ```
 
-#SHAP-XAI Visualization
+# SHAP-XAI Visualization
 ![SHAP Visualization](https://github.com/pjbk/anemia-DSS/blob/main/XAI.png)
 
 ## Quick Start
@@ -78,7 +78,7 @@ anemia-DSS/
 └── requirements.txt
 ```
 
-## Usage Instructions
+# User Guides
 
 1. **Upload Model**: The pretrained model (`ensemble_model.pkl`) is included in the repository.
 2. **Input Patient's Data**: Choose Hematological and Demographic data of patient for diagnosis.
@@ -86,7 +86,7 @@ anemia-DSS/
 4. ****Explainability**: SHAP-enhaced visualization will appear that explains the reasoning.
 
 
-## Technologies Used
+## Tools and Technologies
 
 - **Scikit-Learn**: For model development and and performance analysis.
 - **Streamlit**: Framework for building interactive web applications.
