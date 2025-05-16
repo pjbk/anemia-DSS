@@ -1,3 +1,8 @@
+# Developted by* 
+# Pankaj Bhowmik  
+# Lecturer, Department of Computer Science and Engineering 
+# Hajee Mohammad Danesh Science and Technology University  
+
 import streamlit as st
 import numpy as np
 import joblib
